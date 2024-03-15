@@ -9,7 +9,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yaseen-kc&theme=dark&hide_border=false)<br/>
 <br/>
-![LeetCode Stats](https://leetcard.jacoblin.cool/yaseenkc?theme=dark&font=Montserrat&ext=heatmap)
 ---
 [![](https://visitcount.itsvg.in/api?id=yaseen-kc&icon=0&color=0)](https://visitcount.itsvg.in)
 
