@@ -16,8 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     0 secs          ██████████████████▒░░░░░░   73.47 %
-TypeScript   0 secs          ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
+Batchfile    3 mins          ███████████████████████▒░   92.89 %
+Other        0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
